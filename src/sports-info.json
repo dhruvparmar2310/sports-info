@@ -1,0 +1,78 @@
+{
+  "status": 200,
+  "message": "Sucessful",
+  "data": [
+    {
+      "iId": {
+        "_id": "5cefd346b2abd24197216447",
+        "sFirstName": "Sports",
+        "sLastName": "Info",
+        "sProfilePicture": "profilepicture/5cefd346b2abd24197216447_1559738153292_favicon_512x512.png"
+      },
+      "_id": "604af950fffbcd170ad08688",
+      "eType": "Article",
+      "sTitle": "Hemang Badani not pleased with Varun Chakravarthy after the spinner fails to clear fitness tests ahead of the England T20Is",
+      "sSlug": "hemang-badani-not-pleased-with-varun-chakravarthy-after-the-spinner-fails-to-clear-fitness-tests-ahead-of-the-england-t20is",
+      "sImage": "https://image.crictracker.com/wp-content/uploads/2020/10/Varun-Chakravarthy-3.jpg",
+      "nCommentsCount": 0,
+      "sDescription": "  Hemang Badani, the former Indian cricketer, wasn’t happy with Varun Chakravarthy, who couldn’t make the cut for the T20I series against England after failing the fitness tests. This was the second instance when the  Tamil Nadu  spinner couldn’t play in a series after getting picked in the squad, the first time being in the tour of Australia back in November 2020.   Chakravarthy couldn’t pass the",
+      "nViewCounts": 579,
+      "dUpdatedAt": "2021-03-12T07:12:44.211Z",
+      "dCreatedAt": "2021-03-12T04:10:09.000Z"
+    },
+    {
+      "iId": {
+        "_id": "5cefd346b2abd24197216447",
+        "sFirstName": "Sports",
+        "sLastName": "Info",
+        "sProfilePicture": "profilepicture/5cefd346b2abd24197216447_1559738153292_favicon_512x512.png"
+      },
+      "_id": "604aeb41fffbcd170ad08686",
+      "eType": "Article",
+      "sTitle": "Finn Allen gears up for IPL sojourn after losing his favourite bat",
+      "sSlug": "finn-allen-gears-up-for-ipl-sojourn-after-losing-his-favourite-bat",
+      "sImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/347400/347432.jpg",
+      "nCommentsCount": 0,
+      "sDescription": "  Finn Allen, the 21-year-old left-handed batsman, got a pleasant surprise after he was picked to play for the Royal Challengers Bangalore (RCB) in the 2021 edition of the Indian Premier League (IPL). Allen came into the fore after  Josh Philippe , who made his IPL debut last season in the UAE, was announced unavailable for the entire upcoming IPL season.   Even as Allen is all set to ply his trad",
+      "nViewCounts": 296,
+      "dUpdatedAt": "2021-03-12T07:14:11.280Z",
+      "dCreatedAt": "2021-03-12T03:31:17.000Z"
+    },
+    {
+      "iId": {
+        "_id": "5cefd346b2abd24197216447",
+        "sFirstName": "Sports",
+        "sLastName": "Info",
+        "sProfilePicture": "profilepicture/5cefd346b2abd24197216447_1559738153292_favicon_512x512.png"
+      },
+      "_id": "604add39fffbcd170ad08685",
+      "eType": "Article",
+      "sTitle": "When and Where to Watch West Indies vs Sri Lanka, Live Streaming, Match Preview, Timings, and Pitch Report for 2nd ODI",
+      "sSlug": "when-and-where-to-watch-west-indies-vs-sri-lanka-live-streaming-match-preview-timings-and-pitch-report-for-2nd-odi",
+      "sImage": "https://image.crictracker.com/wp-content/uploads/2021/03/Fabian-Allen-and-Jason-Holder.jpg",
+      "nCommentsCount": 0,
+      "sDescription": "  Guided by a spectacular century from Shai Hope, West Indies crushed Sri Lanka by eight wickets in the first ODI to open their account in the ICC ODI Super League points table. While it can be argued that the series is of meager significance in a year that will be largely dominated by Test cricket and T20Is, West Indies must be content to have arrested a six-match losing streak in the 50-overs fo",
+      "nViewCounts": 276,
+      "dUpdatedAt": "2021-03-12T09:36:16.036Z",
+      "dCreatedAt": "2021-03-12T02:44:23.000Z"
+    },
+    {
+      "iId": {
+        "_id": "5cefd346b2abd24197216447",
+        "sFirstName": "Sports",
+        "sLastName": "Info",
+        "sProfilePicture": "profilepicture/5cefd346b2abd24197216447_1559738153292_favicon_512x512.png"
+      },
+      "_id": "604af950fffbcd170ad08689",
+      "eType": "Article",
+      "sTitle": "‘Six 6s, Adelaide 36’ – Ravi Shastri shows Indian cricket’s unique connection with number 36",
+      "sSlug": "six-6s-adelaide-36-ravi-shastri-shows-indian-crickets-unique-connection-with-number-36",
+      "sImage": "https://image.crictracker.com/wp-content/uploads/2020/02/Ravi-Shastri-1.jpg",
+      "nCommentsCount": 0,
+      "sDescription": "  36 must be a dreaded number for the Indian fans after the Adelaide Test against Australia in December 2020. In a humiliating turn of events, India were all out for just 36 &#8211; their lowest-ever score in Test cricket- as Australia thrashed them by eight wickets. At the same time, the number 36 also holds some very happy memories for Indian cricket and Ravi Shastri recently pointed it out.   T",
+      "nViewCounts": 366,
+      "dUpdatedAt": "2021-03-12T09:36:40.425Z",
+      "dCreatedAt": "2021-03-12T02:31:44.000Z"
+    }
+  ]
+}
